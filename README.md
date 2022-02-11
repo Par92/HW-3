@@ -10,4 +10,4 @@ Password Generator
   https://par92.github.io/HW-3/ 
 
 - screenshot 
-![Password Generator](./assets/Screenshot 2022-02-11 094526.png)
+https://github.com/Par92/HW-3/blob/main/assets/Screenshot%202022-02-11%20094526.png
